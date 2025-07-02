@@ -1,0 +1,5 @@
+Done till register, login, get profile, edit profile.
+get and edit profile till authentication.
+
+Pending:(codes are already present)
+dairyRoutes.
