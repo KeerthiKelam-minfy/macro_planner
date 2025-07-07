@@ -17,18 +17,18 @@
 ## Setup IUnstructions
 
 1. Clone and install
-
-   ```bash
+<pre>
 git clone https://github.com/KeerthiKelam-minfy/macro_planner
 cd macro_planner
 npm install
+</pre>
 
-2. Configure Environment Variables
-
+2. Configure Environment Variables  
+  
 Refer the env.example and create your .env file with all the environment variables.
-
+  
 3. Before starting the server, import the food database(one time only)
-
+  
 node scripts/importFoods.js
 
 4. Start the server
