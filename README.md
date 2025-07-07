@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f03dd818-757e-49e5-a133-94608fa2b8c2)# Macro Tracker Backend
+# Macro tracker Backend
 
 ## Features
 
