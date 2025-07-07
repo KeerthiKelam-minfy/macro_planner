@@ -31,6 +31,7 @@ const logDiaryEntry = async (req, res) => {
   }
 };
 
+// uses aggregation pipeline
 const getDashboard = async (req, res) => {
   const date = new Date(req.query.date);
   const startOfDay = new Date(date.setHours(0, 0, 0, 0));

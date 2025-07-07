@@ -1,0 +1,7 @@
+name,serving_unit,calories_per_unit,protein_per_unit,carbs_per_unit,fat_per_unit,is_veg
+Boiled Egg,g,155,13,1.1,11,false
+Chicken Breast,g,165,31,0,3.6,false
+Paneer,g,265,18,1.2,20,true
+Brown Rice,g,111,2.6,23,0.9,true
+Almonds,g,579,21,22,50,true
+Milk,ml,42,3.4,5,1,true

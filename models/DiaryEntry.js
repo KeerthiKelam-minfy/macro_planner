@@ -2,8 +2,8 @@ import mongoose from "mongoose";
 
 const DiaryEntrySchema = new mongoose.Schema(
   {
-    user: { type: mongoose.Schema.Types.ObjectId, ref: "User", required: true },
-    food: { type: mongoose.Schema.Types.ObjectId, ref: "Food", required: true },
+    user: { type: mongoose.Schema.Types.ObjectId, ref: "User", required: true }, // We are referncing a User foriegn key here.
+    food: { type: mongoose.Schema.Types.ObjectId, ref: "Food", required: true }, // Here, 'Food' => foriegn key
     quantity: { type: Number, required: true },
     meal_type: {
       type: String,
